@@ -1,0 +1,9 @@
+# Data is not redistributed: download the source from Kaggle and regenerate
+*.csv
+*.csv.gz
+*.zip
+data/
+output/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
